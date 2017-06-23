@@ -1,0 +1,12 @@
+WIKI
+##I'll be writing a little in plaintext - 
+##I also want to mirror on a Mediawiki, I own a domain,
+##inference.online, I want to do something with, 
+##and this seems like a good project for that purpose. 
+
+##I'm not a programmer but I do have a little working knowledge of Python,
+##my first task here is going to be to write the code out in plain language
+
+##I'm inclined to insert your mom jokes throughout the text as a sort of Easter Egg
+
+
